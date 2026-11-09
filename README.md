@@ -2,6 +2,10 @@
 
 A playful friendship website for Team Boss: Pranay (Boss), Lokesh, Nithish, Sai, Shiva (Jala), Yashwanth (Yash), and Vamshi.
 
+## Live website
+
+https://saikumarcherku.github.io/team-boss/
+
 ## Open the website
 
 Open `index.html` in a browser. No build, packages, or backend are required. Keep the `photos` folder beside the HTML file.
@@ -14,7 +18,7 @@ Quiz answers and nickname guesses are stored in each visitor’s browser using l
 
 ## GitHub Pages
 
-To publish, open repository **Settings → Pages**, select **Deploy from a branch**, then **main** and **/ (root)**. GitHub Pages availability for private repositories depends on the account plan. This repository has not been published automatically.
+GitHub Pages is configured to deploy from **main**, **/ (root)**. The repository is public. Push changes to `main` to update the website.
 
 ## Photos
 
