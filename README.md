@@ -10,11 +10,13 @@ https://saikumarcherku.github.io/team-boss/
 
 Open `index.html` in a browser. No build, packages, or backend are required. Keep the `photos` folder beside the HTML file.
 
-The page includes squad cards, friendly roast generators, a squad quiz, nickname checks, the secret daily-call checklist, and five Boss story prompts.
+The page includes squad cards, friendly roast generators, a Boss-only championship with six scored questions and nickname checks, the secret daily-call checklist, and five Boss story prompts.
 
 ## Saved answers
 
-Quiz answers and nickname guesses are stored in each visitor’s browser using local storage. They are not shared between people or devices. Visitors can download their answers or clear them. Personal answers are excluded from the website’s HTML download.
+Championship progress and locked results are stored in each visitor’s browser using local storage. They are not shared between people or devices. Each correct answer earns 10 points, for a maximum of 60. All six answers are locked together before reveals. The quiz uses Boss facts supplied by the group, including five love stories and six accepted nicknames.
+
+Visitors can share their score, download a PNG result card, export their answers, or start a labeled practice attempt. Results are self-reported, not a tamper-proof shared leaderboard; the squad confirms winners and any optional treat. Personal answers and results are excluded from the website’s HTML download. The earlier unscored quiz notebook is retained in its separate browser-storage key.
 
 ## GitHub Pages
 
